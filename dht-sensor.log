@@ -1,0 +1,536 @@
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=22, pin=17).
+*** timeout #2
+start sensor read (type=22, pin=17).
+*** timeout #2
+start sensor read (type=22, pin=17).
+*** timeout #2
+start sensor read (type=22, pin=17).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=22, pin=11).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 265
+update peak: 5 (775)
+update peak: 8 (781)
+bitCount=41, peak=781:
+0 (265) 0 (265) 0 (254) 0 (229) 1 (775) 1 (775) 0 (265) 1 (781) 
+0 (265) 0 (266) 0 (261) 0 (265) 0 (265) 0 (178) 0 (179) 0 (246) 
+0 (127) 0 (223) 1 (770) 0 (260) 1 (770) 0 (266) 0 (265) 0 (269) 
+0 (266) 0 (264) 0 (211) 0 (264) 0 (260) 0 (265) 0 (265) 0 (276) 
+0 (266) 0 (265) 1 (770) 1 (769) 0 (265) 1 (658) 0 (265) 1 (777) 
+
+=> d 0 28 0 (35/35) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 265
+update peak: 4 (769)
+update peak: 7 (770)
+update peak: 19 (775)
+update peak: 24 (781)
+bitCount=41, peak=781:
+0 (265) 0 (265) 0 (265) 1 (769) 1 (769) 0 (260) 1 (770) 0 (276) 
+0 (265) 0 (265) 0 (265) 0 (260) 0 (265) 0 (266) 0 (260) 0 (276) 
+0 (265) 0 (265) 1 (775) 0 (264) 0 (260) 0 (265) 0 (265) 1 (781) 
+0 (259) 0 (265) 0 (264) 0 (265) 0 (265) 0 (260) 0 (265) 0 (274) 
+0 (265) 0 (265) 1 (775) 1 (775) 1 (774) 0 (265) 1 (769) 1 (778) 
+
+=> 1a 0 21 0 (3b/3b) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 265
+update peak: 2 (266)
+update peak: 4 (703)
+update peak: 5 (775)
+update peak: 31 (776)
+update peak: 32 (786)
+bitCount=41, peak=786:
+0 (265) 0 (266) 0 (266) 1 (703) 1 (775) 0 (265) 1 (774) 0 (277) 
+0 (265) 0 (264) 0 (265) 0 (266) 0 (265) 0 (266) 0 (265) 0 (273) 
+0 (265) 0 (265) 1 (774) 0 (265) 0 (265) 0 (266) 0 (265) 0 (275) 
+0 (265) 0 (265) 0 (266) 0 (220) 0 (265) 0 (265) 1 (776) 1 (786) 
+0 (265) 0 (265) 1 (775) 1 (775) 1 (774) 1 (774) 0 (265) 1 (781) 
+
+=> 1a 0 20 3 (3d/3d) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 4 (775)
+update peak: 8 (786)
+bitCount=41, peak=786:
+0 (266) 0 (265) 0 (265) 1 (775) 1 (774) 0 (265) 1 (775) 1 (786) 
+0 (265) 0 (265) 0 (265) 0 (266) 0 (265) 0 (266) 0 (265) 0 (276) 
+0 (265) 0 (264) 0 (265) 1 (774) 1 (772) 1 (775) 1 (776) 1 (786) 
+0 (265) 0 (264) 0 (265) 0 (266) 1 (663) 0 (265) 0 (266) 1 (785) 
+0 (266) 1 (775) 0 (265) 0 (265) 0 (262) 0 (266) 1 (775) 1 (768) 
+
+=> 1b 0 1f 9 (43/43) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 265
+update peak: 2 (266)
+update peak: 4 (774)
+update peak: 6 (775)
+update peak: 23 (776)
+update peak: 24 (786)
+bitCount=41, peak=786:
+0 (265) 0 (266) 0 (265) 1 (774) 1 (686) 1 (775) 0 (265) 0 (271) 
+0 (265) 0 (265) 0 (261) 0 (265) 0 (265) 0 (265) 0 (264) 0 (271) 
+0 (265) 0 (266) 0 (260) 1 (771) 1 (770) 1 (770) 1 (776) 1 (786) 
+0 (265) 0 (265) 0 (265) 0 (265) 0 (261) 1 (770) 0 (266) 0 (277) 
+0 (266) 0 (266) 1 (776) 1 (775) 1 (773) 1 (770) 1 (770) 1 (778) 
+
+=> 1c 0 1f 4 (3f/3f) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 265
+update peak: 4 (776)
+update peak: 8 (787)
+bitCount=41, peak=787:
+0 (265) 0 (265) 0 (260) 1 (776) 1 (775) 1 (776) 0 (266) 1 (787) 
+0 (265) 0 (265) 0 (265) 0 (261) 0 (265) 0 (266) 0 (266) 0 (276) 
+0 (265) 0 (266) 0 (265) 1 (770) 1 (771) 1 (658) 1 (771) 1 (781) 
+0 (260) 0 (265) 0 (265) 0 (266) 0 (265) 0 (258) 1 (770) 0 (277) 
+0 (265) 0 (260) 1 (770) 1 (770) 1 (774) 1 (776) 1 (776) 0 (274) 
+
+=> 1d 0 1f 2 (3e/3e) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 221
+update peak: 2 (240)
+update peak: 3 (389)
+update peak: 8 (786)
+bitCount=41, peak=786:
+0 (221) 0 (240) 0 (389) 0 (257) 0 (265) 0 (259) 0 (266) 1 (786) 
+0 (265) 0 (266) 0 (266) 0 (260) 0 (265) 0 (265) 0 (265) 0 (277) 
+0 (266) 0 (248) 0 (265) 1 (771) 1 (771) 1 (771) 0 (261) 1 (782) 
+0 (266) 0 (266) 0 (266) 0 (181) 0 (265) 1 (771) 0 (266) 0 (276) 
+0 (260) 1 (772) 0 (266) 0 (265) 0 (264) 0 (265) 1 (673) 0 (259) 
+
+=> 1 0 1d 4 (42/22) : ERR
+*** unexpected data: bits=41: 66 != 1 + 0 + 29 + 4
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (771)
+update peak: 20 (776)
+update peak: 24 (782)
+bitCount=41, peak=782:
+0 (266) 0 (266) 1 (771) 0 (266) 0 (265) 0 (202) 1 (771) 0 (277) 
+0 (266) 0 (261) 0 (266) 0 (266) 0 (265) 0 (265) 0 (260) 0 (277) 
+0 (265) 0 (231) 0 (265) 1 (776) 1 (776) 1 (776) 0 (266) 1 (782) 
+0 (265) 0 (265) 0 (261) 0 (266) 0 (265) 0 (260) 0 (266) 0 (277) 
+0 (266) 0 (266) 1 (769) 1 (772) 1 (772) 1 (772) 1 (692) 1 (779) 
+
+=> 22 0 1d 0 (3f/3f) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (776)
+update peak: 8 (782)
+update peak: 32 (786)
+bitCount=41, peak=786:
+0 (266) 0 (265) 1 (776) 0 (266) 0 (266) 0 (266) 1 (739) 1 (782) 
+0 (266) 0 (253) 0 (265) 0 (265) 0 (263) 0 (265) 0 (265) 0 (277) 
+0 (266) 0 (266) 0 (265) 1 (776) 1 (777) 1 (727) 0 (265) 0 (277) 
+0 (265) 0 (266) 0 (266) 0 (266) 1 (776) 0 (266) 0 (265) 1 (786) 
+0 (242) 1 (776) 0 (265) 0 (266) 1 (776) 0 (266) 0 (266) 0 (274) 
+
+=> 23 0 1c 9 (48/48) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (769)
+update peak: 6 (777)
+update peak: 24 (787)
+bitCount=41, peak=787:
+0 (266) 0 (265) 1 (769) 0 (261) 0 (265) 1 (777) 1 (729) 0 (277) 
+0 (265) 0 (266) 0 (261) 0 (266) 0 (265) 0 (260) 0 (265) 0 (277) 
+0 (265) 0 (266) 0 (181) 1 (772) 1 (772) 0 (266) 1 (776) 1 (787) 
+0 (266) 0 (261) 0 (266) 0 (265) 0 (241) 1 (777) 0 (266) 1 (783) 
+0 (261) 1 (772) 0 (266) 0 (266) 0 (266) 1 (777) 1 (682) 0 (274) 
+
+=> 26 0 1b 5 (46/46) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (779)
+update peak: 24 (789)
+update peak: 32 (790)
+bitCount=41, peak=790:
+0 (267) 0 (266) 1 (779) 0 (266) 0 (266) 1 (779) 1 (778) 0 (278) 
+0 (267) 0 (266) 0 (267) 0 (267) 0 (266) 0 (266) 0 (266) 0 (277) 
+0 (266) 0 (266) 0 (267) 1 (779) 1 (779) 0 (266) 1 (779) 1 (789) 
+0 (266) 0 (266) 0 (266) 0 (267) 0 (266) 0 (267) 1 (779) 1 (790) 
+0 (266) 1 (779) 0 (267) 0 (266) 0 (267) 1 (779) 0 (267) 0 (275) 
+
+=> 26 0 1b 3 (44/44) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 232
+update peak: 3 (643)
+update peak: 6 (672)
+update peak: 20 (673)
+update peak: 23 (674)
+update peak: 24 (682)
+bitCount=41, peak=682:
+0 (232) 0 (231) 1 (643) 0 (220) 0 (223) 1 (672) 1 (668) 0 (253) 
+0 (241) 0 (224) 0 (243) 0 (244) 0 (224) 0 (227) 0 (244) 0 (236) 
+0 (241) 0 (241) 0 (221) 1 (673) 1 (668) 0 (224) 1 (674) 1 (682) 
+0 (227) 0 (233) 0 (224) 0 (217) 0 (227) 0 (233) 1 (347) 0 (185) 
+0 (176) 1 (363) 0 (113) 0 (238) 0 (238) 0 (229) 1 (378) 0 (117) 
+
+=> 26 0 1b 2 (42/43) : ERR
+*** unexpected data: bits=41: 66 != 38 + 0 + 27 + 2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 143
+update peak: 3 (353)
+update peak: 6 (419)
+update peak: 20 (420)
+update peak: 40 (423)
+bitCount=41, peak=423:
+0 (143) 0 (143) 1 (353) 0 (143) 0 (143) 1 (419) 1 (418) 0 (149) 
+0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (144) 0 (149) 
+0 (143) 0 (143) 0 (143) 1 (420) 1 (420) 0 (142) 1 (419) 1 (420) 
+0 (140) 0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 1 (419) 0 (149) 
+0 (143) 1 (419) 0 (143) 0 (143) 0 (143) 0 (142) 1 (419) 1 (423) 
+
+=> 26 0 1b 2 (43/43) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 226
+update peak: 2 (233)
+update peak: 4 (248)
+update peak: 5 (672)
+update peak: 20 (685)
+update peak: 23 (688)
+bitCount=41, peak=688:
+0 (226) 0 (233) 0 (194) 0 (248) 1 (672) 0 (242) 0 (233) 0 (236) 
+0 (235) 0 (224) 0 (226) 0 (223) 0 (225) 0 (224) 0 (224) 0 (234) 
+0 (233) 0 (225) 0 (224) 1 (685) 1 (641) 0 (226) 1 (688) 1 (682) 
+0 (226) 0 (232) 0 (226) 0 (230) 0 (234) 0 (225) 1 (672) 0 (244) 
+0 (224) 1 (671) 0 (218) 0 (243) 0 (226) 1 (677) 0 (225) 1 (676) 
+
+=> 8 0 1b 2 (45/25) : ERR
+*** unexpected data: bits=41: 69 != 8 + 0 + 27 + 2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (777)
+update peak: 24 (788)
+bitCount=41, peak=788:
+0 (266) 0 (266) 1 (777) 0 (266) 0 (266) 1 (776) 1 (776) 0 (277) 
+0 (266) 0 (266) 0 (266) 0 (265) 0 (266) 0 (266) 0 (265) 0 (277) 
+0 (265) 0 (266) 0 (265) 1 (776) 1 (777) 0 (266) 1 (776) 1 (788) 
+0 (266) 0 (266) 0 (265) 0 (266) 0 (266) 0 (266) 0 (266) 1 (788) 
+0 (265) 1 (777) 0 (266) 0 (266) 0 (265) 0 (266) 1 (777) 0 (274) 
+
+=> 26 0 1b 1 (42/42) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 2 (267)
+update peak: 3 (779)
+update peak: 20 (780)
+update peak: 24 (789)
+update peak: 32 (790)
+bitCount=41, peak=790:
+0 (266) 0 (267) 1 (779) 0 (266) 1 (779) 0 (267) 0 (266) 0 (278) 
+0 (266) 0 (267) 0 (266) 0 (267) 0 (266) 0 (267) 0 (267) 0 (277) 
+0 (266) 0 (267) 0 (266) 1 (780) 1 (779) 0 (267) 1 (778) 1 (789) 
+0 (266) 0 (266) 0 (193) 0 (266) 0 (266) 0 (265) 0 (266) 1 (790) 
+0 (266) 1 (779) 0 (266) 0 (267) 0 (267) 1 (778) 0 (267) 0 (275) 
+
+=> 28 0 1b 1 (44/44) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (779)
+update peak: 8 (790)
+bitCount=41, peak=790:
+0 (266) 0 (266) 1 (779) 0 (267) 0 (266) 1 (779) 1 (779) 1 (790) 
+0 (266) 0 (267) 0 (267) 0 (266) 0 (267) 0 (267) 0 (267) 0 (278) 
+0 (267) 0 (267) 0 (267) 1 (779) 0 (177) 0 (243) 1 (659) 1 (683) 
+0 (229) 0 (227) 0 (223) 0 (239) 0 (223) 0 (242) 0 (227) 0 (240) 
+0 (240) 1 (669) 0 (223) 0 (227) 0 (231) 0 (242) 1 (657) 0 (241) 
+
+=> 27 0 13 0 (42/3a) : ERR
+*** unexpected data: bits=41: 66 != 39 + 0 + 19 + 0
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+*** timeout #2
+start sensor read (type=11, pin=17).
+init peak: 143
+update peak: 3 (418)
+update peak: 6 (419)
+update peak: 8 (425)
+bitCount=41, peak=425:
+0 (143) 0 (143) 1 (418) 0 (143) 0 (142) 1 (419) 1 (419) 1 (425) 
+0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (144) 0 (149) 
+0 (143) 0 (143) 0 (142) 1 (418) 1 (418) 0 (143) 1 (419) 1 (424) 
+0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (143) 0 (142) 0 (149) 
+0 (143) 1 (418) 0 (142) 0 (143) 0 (143) 0 (143) 1 (418) 0 (148) 
+
+=> 27 0 1b 0 (42/42) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (778)
+update peak: 5 (779)
+update peak: 8 (789)
+update peak: 24 (790)
+bitCount=41, peak=790:
+0 (267) 0 (266) 1 (778) 0 (266) 1 (779) 0 (266) 0 (266) 1 (789) 
+0 (266) 0 (267) 0 (266) 0 (266) 0 (267) 0 (266) 0 (265) 0 (276) 
+0 (267) 0 (266) 0 (265) 1 (777) 1 (779) 0 (267) 1 (779) 1 (790) 
+0 (267) 0 (266) 0 (267) 0 (266) 0 (266) 0 (267) 0 (266) 0 (277) 
+0 (267) 1 (778) 0 (266) 0 (266) 0 (266) 1 (779) 0 (266) 0 (275) 
+
+=> 29 0 1b 0 (44/44) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 256
+update peak: 2 (257)
+update peak: 3 (750)
+update peak: 7 (773)
+update peak: 8 (784)
+bitCount=41, peak=784:
+0 (256) 0 (257) 1 (750) 0 (257) 0 (252) 1 (744) 1 (773) 1 (784) 
+0 (267) 0 (267) 0 (266) 0 (266) 0 (261) 0 (266) 0 (266) 0 (273) 
+0 (266) 0 (267) 0 (266) 1 (779) 1 (779) 0 (267) 1 (448) 1 (660) 
+0 (240) 0 (218) 0 (242) 0 (239) 0 (225) 0 (219) 0 (228) 0 (240) 
+0 (224) 1 (678) 0 (226) 0 (226) 0 (216) 0 (223) 1 (675) 0 (241) 
+
+=> 27 0 1b 0 (42/42) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 2 (267)
+update peak: 3 (778)
+update peak: 6 (779)
+update peak: 8 (790)
+bitCount=41, peak=790:
+0 (266) 0 (267) 1 (778) 0 (267) 0 (267) 1 (779) 1 (779) 1 (790) 
+0 (267) 0 (266) 0 (266) 0 (267) 0 (266) 0 (266) 0 (267) 0 (278) 
+0 (266) 0 (266) 0 (266) 1 (779) 1 (778) 0 (267) 1 (778) 1 (789) 
+0 (266) 0 (267) 0 (266) 0 (267) 0 (266) 0 (266) 0 (267) 0 (277) 
+0 (267) 1 (780) 0 (267) 0 (266) 0 (267) 0 (267) 1 (778) 0 (274) 
+
+=> 27 0 1b 0 (42/42) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 2 (267)
+update peak: 3 (779)
+update peak: 8 (788)
+update peak: 24 (790)
+bitCount=41, peak=790:
+0 (266) 0 (267) 1 (779) 0 (266) 0 (266) 1 (778) 1 (779) 1 (788) 
+0 (266) 0 (266) 0 (266) 0 (266) 0 (266) 0 (267) 0 (267) 0 (277) 
+0 (267) 0 (266) 0 (266) 1 (778) 1 (779) 0 (266) 1 (779) 1 (790) 
+0 (266) 0 (267) 0 (266) 0 (266) 0 (266) 0 (266) 0 (266) 0 (278) 
+0 (266) 1 (779) 0 (267) 0 (267) 0 (266) 0 (267) 1 (767) 0 (271) 
+
+=> 27 0 1b 0 (42/42) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (779)
+update peak: 21 (780)
+update peak: 32 (790)
+bitCount=41, peak=790:
+0 (267) 0 (267) 1 (779) 0 (265) 1 (779) 0 (266) 0 (266) 0 (070) 
+0 (267) 0 (267) 0 (266) 0 (267) 0 (266) 0 (266) 0 (266) 0 (277) 
+0 (266) 0 (267) 0 (267) 1 (779) 1 (780) 0 (266) 1 (780) 0 (278) 
+0 (267) 0 (267) 0 (267) 0 (267) 0 (266) 1 (779) 1 (779) 1 (790) 
+0 (267) 1 (779) 0 (267) 0 (266) 1 (779) 0 (266) 0 (266) 1 (787) 
+
+=> 28 0 1a 7 (49/49) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (780)
+bitCount=41, peak=780:
+0 (267) 0 (267) 1 (780) 0 (267) 1 (780) 0 (267) 0 (267) 0 (278) 
+0 (267) 0 (267) 0 (266) 0 (267) 0 (266) 0 (266) 0 (053) 0 (230) 
+0 (225) 0 (220) 0 (228) 1 (668) 1 (653) 0 (222) 1 (665) 0 (246) 
+0 (241) 0 (223) 0 (238) 0 (239) 1 (666) 0 (239) 0 (223) 0 (247) 
+0 (225) 1 (666) 0 (241) 0 (243) 1 (666) 0 (245) 1 (644) 0 (235) 
+
+=> 28 0 1a 8 (4a/4a) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (779)
+bitCount=41, peak=779:
+0 (267) 0 (267) 1 (779) 0 (266) 1 (778) 0 (267) 0 (266) 0 (278) 
+0 (267) 0 (266) 0 (267) 0 (266) 0 (266) 0 (265) 0 (267) 0 (278) 
+0 (267) 0 (266) 0 (266) 1 (778) 1 (779) 0 (267) 1 (778) 0 (277) 
+0 (265) 0 (266) 0 (266) 0 (266) 0 (266) 1 (778) 1 (779) 0 (277) 
+0 (267) 1 (779) 0 (266) 0 (267) 1 (779) 0 (266) 0 (266) 0 (275) 
+
+=> 28 0 1a 6 (48/48) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (779)
+update peak: 20 (780)
+update peak: 32 (791)
+bitCount=41, peak=791:
+0 (267) 0 (267) 1 (779) 0 (266) 1 (779) 0 (266) 0 (266) 0 (277) 
+0 (266) 0 (267) 0 (267) 0 (267) 0 (267) 0 (267) 0 (267) 0 (278) 
+0 (266) 0 (267) 0 (267) 1 (780) 1 (779) 0 (267) 1 (779) 0 (277) 
+0 (266) 0 (267) 0 (267) 0 (267) 0 (267) 1 (780) 0 (267) 1 (791) 
+0 (267) 1 (778) 0 (266) 0 (267) 0 (267) 1 (779) 1 (780) 1 (787) 
+
+=> 28 0 1a 5 (47/47) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 3 (780)
+update peak: 32 (790)
+bitCount=41, peak=790:
+0 (266) 0 (266) 1 (780) 0 (267) 1 (779) 0 (267) 0 (267) 0 (277) 
+0 (267) 0 (266) 0 (267) 0 (133) 0 (266) 0 (266) 0 (267) 0 (238) 
+0 (267) 0 (266) 0 (266) 1 (778) 1 (779) 0 (266) 1 (780) 0 (278) 
+0 (267) 0 (267) 0 (267) 0 (267) 0 (267) 1 (779) 0 (267) 1 (790) 
+0 (267) 1 (780) 0 (267) 0 (267) 0 (267) 1 (778) 1 (779) 1 (787) 
+
+=> 28 0 1a 5 (47/47) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (779)
+update peak: 8 (791)
+bitCount=41, peak=791:
+0 (267) 0 (266) 1 (779) 0 (264) 1 (779) 0 (267) 0 (267) 1 (791) 
+0 (266) 0 (267) 0 (267) 0 (266) 0 (267) 0 (266) 0 (267) 0 (278) 
+0 (266) 0 (267) 0 (267) 1 (779) 1 (779) 0 (267) 1 (779) 0 (278) 
+0 (263) 0 (266) 0 (267) 0 (198) 0 (267) 0 (267) 1 (779) 1 (790) 
+0 (267) 1 (779) 0 (267) 0 (267) 0 (267) 1 (780) 1 (779) 0 (274) 
+
+=> 29 0 1a 3 (46/46) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 266
+update peak: 2 (267)
+update peak: 3 (779)
+update peak: 7 (780)
+bitCount=41, peak=780:
+0 (266) 0 (267) 1 (779) 0 (267) 1 (779) 0 (267) 1 (780) 0 (278) 
+0 (266) 0 (267) 0 (266) 0 (267) 0 (267) 0 (266) 0 (267) 0 (277) 
+0 (267) 0 (267) 0 (206) 1 (779) 1 (779) 0 (267) 1 (779) 0 (277) 
+0 (267) 0 (267) 0 (266) 0 (267) 0 (254) 0 (266) 1 (779) 0 (278) 
+0 (266) 1 (779) 0 (267) 0 (266) 0 (266) 1 (779) 1 (779) 0 (275) 
+
+=> 2a 0 1a 2 (46/46) : OK
+sensor type = 11, *** obtained readout successfully.
+start sensor read (type=11, pin=17).
+init peak: 267
+update peak: 3 (780)
+update peak: 8 (790)
+bitCount=41, peak=790:
+0 (267) 0 (266) 1 (780) 0 (266) 1 (780) 1 (778) 0 (266) 1 (790) 
+0 (266) 0 (266) 0 (266) 0 (267) 0 (264) 0 (267) 0 (267) 0 (278) 
+0 (267) 0 (266) 0 (266) 1 (779) 1 (779) 0 (267) 0 (267) 0 (278) 
+0 (267) 0 (267) 0 (267) 0 (267) 1 (779) 0 (266) 0 (267) 0 (277) 
+0 (267) 1 (779) 0 (267) 0 (267) 1 (779) 1 (780) 0 (267) 1 (788) 
+
+=> 2d 0 18 8 (4d/4d) : OK
+sensor type = 11, *** obtained readout successfully.
