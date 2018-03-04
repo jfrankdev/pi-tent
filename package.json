@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
     "johnny-five": "^0.13.0",
     "node-dht-sensor": "0.0.34",
     "raspi-io": "^8.1.0"
